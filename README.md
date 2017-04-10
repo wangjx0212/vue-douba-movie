@@ -1,6 +1,6 @@
 # vue-douba-movie
 
-> yes
+
 
 ## Build Setup
 
@@ -18,19 +18,26 @@ npm run build
 npm run build --report
 ```
 
-vue豆瓣电影Demo
-查看Demo地址：(http://www.51-dream.com/vue-douba-movie/)
-手机上效果更佳，手机扫一扫体验
+vue豆瓣电影Demo  
+查看Demo地址：(http://www.51-dream.com/vue-douba-movie/)  
+手机上效果更佳，手机扫一扫体验：  
 ![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/doubanmovie.png)
 
-#技术栈
+## 技术栈  
 vue2+webpack+vue-router+vuex+vue-resource+vue-lazyload+bootstrap
 
-#实现功能
-1.搜索功能
-2.影院热映
-3.影院即将上映
-4.Top250
-5.电影具体信息
+## 实现功能  
+1. 搜索功能
+2. 影院热映
+3. 影院即将上映
+4. Top250
+5. 电影具体信息
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 项目截图
+
+![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/IMG-6.jpg)  
+![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/IMG-4.jpg)  
+![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/IMG-3.jpg)  
+![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/IMG-2.jpg)  
+![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/IMG-1.jpg)  
