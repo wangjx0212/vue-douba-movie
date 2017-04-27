@@ -36,4 +36,4 @@ vue2+webpack+vue-router+vuex+vue-resource+vue-lazyload+bootstrap
 
 ## 项目截图
  
-![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/IMG-6.jpg) 
+![Alt text](https://github.com/wangjx0212/GitImage/blob/master/Image/douban-movie.gif) 
