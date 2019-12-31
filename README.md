@@ -32,7 +32,7 @@ vue2+webpack+vue-router+vuex+vue-resource+vue-lazyload+bootstrap
 3. 影院即将上映
 4. Top250
 5. 电影具体信息
-
+6.
 
 ## 项目截图
  
